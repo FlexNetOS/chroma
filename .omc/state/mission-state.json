@@ -1,0 +1,853 @@
+{
+  "updatedAt": "2026-05-13T06:15:36.960Z",
+  "missions": [
+    {
+      "id": "session:df86a28d-fcf5-4e57-880a-ab88e345feae:none",
+      "source": "session",
+      "name": "none",
+      "objective": "Session mission",
+      "createdAt": "2026-05-13T05:19:03.903Z",
+      "updatedAt": "2026-05-13T06:15:36.960Z",
+      "status": "done",
+      "workerCount": 77,
+      "taskCounts": {
+        "total": 77,
+        "pending": 0,
+        "blocked": 0,
+        "inProgress": 0,
+        "completed": 77,
+        "failed": 0
+      },
+      "agents": [
+        {
+          "name": "understand-anything:project-scanner:a87649a",
+          "role": "understand-anything:project-scanner",
+          "ownership": "a87649adde8cf639d",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:23:58.648Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:abdf824",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "abdf824c701156f64",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:27:16.767Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:afcdbc7",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "afcdbc7b1cd8b2158",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:27:04.988Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a4c951b",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a4c951b18610a97fb",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:27:22.520Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:aef2dfa",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "aef2dfae2c7b490d0",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:28:28.930Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:ad282cf",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "ad282cfc219c3481e",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:29:37.109Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a12d935",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a12d935e1a48256ea",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:29:47.018Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a69ba30",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a69ba30f8c63bcf65",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:29:58.948Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a768ab7",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a768ab79681ffa263",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:30:47.028Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a6a3135",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a6a3135454b044d5f",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:31:18.478Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:af12369",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "af12369373b2cf266",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:36:17.050Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a5c0768",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a5c07689034396720",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:32:57.851Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a3c7cbd",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a3c7cbdbe0f111fe6",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:31:54.350Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:aeaeecd",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "aeaeecd201d594826",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:33:16.205Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:ac8cfc0",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "ac8cfc005e54844e6",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:34:06.237Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a146b49",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a146b496e1724586e",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:36:46.953Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:acc6866",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "acc6866947d2ff405",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:34:47.135Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:aedee81",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "aedee81e54739431b",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:35:13.709Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a45c7fc",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a45c7fc303955a2df",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:36:10.350Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:ae0984f",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "ae0984f6c95e7f183",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:37:09.278Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:ad1d9ba",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "ad1d9ba57230bfe9a",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:37:19.885Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a8cf30d",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a8cf30d24e4785a44",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:38:00.379Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a4b7d3a",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a4b7d3a43ea0e0535",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:38:05.255Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:aad8f61",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "aad8f61daa7846a73",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:38:58.406Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:af60ed9",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "af60ed9e469fbc915",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:41:34.987Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a149d96",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a149d961576900076",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:40:52.290Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a09a803",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a09a803f88ed33a1e",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:40:07.705Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:ac08ee7",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "ac08ee7ab0e71381b",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:40:00.003Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:af76ead",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "af76eadce20746adc",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:40:49.845Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a735dd0",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a735dd074efa73f48",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:41:33.544Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:acd305b",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "acd305bc31def16d5",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:41:40.036Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:af2647d",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "af2647d51d174fdd7",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:42:14.118Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a52ee0d",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a52ee0dd2ce19bbf1",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:43:48.421Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a673bbd",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a673bbd4c62e3f89c",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:43:34.576Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a83ac00",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a83ac0035bdbd20f9",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:43:35.678Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a23d4a4",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a23d4a4f2319a7c03",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:45:35.345Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:aca425c",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "aca425cb051313bbf",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:45:52.961Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a8badc1",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a8badc1d3297e50fe",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:46:44.612Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:adab06c",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "adab06c1258fbfec1",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:46:31.862Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:ace5887",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "ace5887ce2e31a297",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:46:02.911Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a083b5d",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a083b5d89ffc64cc9",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:51:21.665Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a088ad2",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a088ad20265fbe2a2",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:47:54.256Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:aa46be8",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "aa46be8ac354a7c7c",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:47:58.683Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a2e3bbd",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a2e3bbddc2f34f36d",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:50:34.187Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:af62387",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "af6238739cc28b5cd",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:50:52.435Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a63d121",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a63d12107e9508557",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:50:54.848Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:af383be",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "af383beacb14b1516",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:51:06.102Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:aeb93d9",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "aeb93d946f5e3965f",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:54:12.502Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:ac86339",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "ac8633987a52ba4e6",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:54:45.891Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a319435",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a319435c5261b8060",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:54:04.329Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a7e1f3b",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a7e1f3b9e1814ff86",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:56:47.383Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a23669f",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a23669fd69a0f5eed",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:56:36.701Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a49a819",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a49a81989a92e38f4",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:58:05.616Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a936441",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a9364415a2a21c267",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:01:11.682Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a937494",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a937494c8d2823854",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:59:40.797Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:af0d298",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "af0d2984ef28cf587",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T05:58:30.687Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a89f3c2",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a89f3c27402b00ad1",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:03:10.458Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a4fac82",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a4fac82f7378eda8a",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:02:40.355Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a1f70d7",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a1f70d7a8a17d5a49",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:02:22.904Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a5c00c8",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a5c00c8f9f8e92282",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:03:51.714Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a1d98af",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a1d98af40704a4691",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:03:44.513Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:ae5c1b3",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "ae5c1b35bfcee0d9a",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:05:54.464Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a88d104",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a88d1040a0f855dd1",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:08:01.608Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a039e73",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a039e73e61686ee13",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:07:23.663Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:aaff46c",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "aaff46cef8f876412",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:09:57.013Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a390389",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a390389877f67b46f",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:09:06.089Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a11c388",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a11c3883c478e27dc",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:08:46.806Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:abbdd6b",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "abbdd6bfe5bfe971b",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:11:44.322Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a7009c3",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a7009c3a53dbe4056",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:11:52.627Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a5d7b6c",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a5d7b6c9acad071af",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:12:28.409Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a7adfbf",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a7adfbfd0405c8871",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:12:03.200Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a98ac2d",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a98ac2d410b6d26e9",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:14:14.089Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a0a80c3",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a0a80c347c7e31f00",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:15:36.960Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:af8a14f",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "af8a14fc62561f0cd",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:15:13.456Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:abaa0ef",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "abaa0ef711a0a3493",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:14:39.997Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:aacf015",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "aacf015326a38488d",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:14:23.038Z"
+        },
+        {
+          "name": "understand-anything:file-analyzer:a00c442",
+          "role": "understand-anything:file-analyzer",
+          "ownership": "a00c4423478968030",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-05-13T06:15:26.238Z"
+        }
+      ],
+      "timeline": [
+        {
+          "id": "session-stop:a98ac2d410b6d26e9:2026-05-13T06:14:14.089Z",
+          "at": "2026-05-13T06:14:14.089Z",
+          "kind": "completion",
+          "agent": "understand-anything:file-analyzer:a98ac2d",
+          "detail": "completed",
+          "sourceKey": "session-stop:a98ac2d410b6d26e9"
+        },
+        {
+          "id": "session-stop:aacf015326a38488d:2026-05-13T06:14:23.038Z",
+          "at": "2026-05-13T06:14:23.038Z",
+          "kind": "completion",
+          "agent": "understand-anything:file-analyzer:aacf015",
+          "detail": "completed",
+          "sourceKey": "session-stop:aacf015326a38488d"
+        },
+        {
+          "id": "session-start:a00c4423478968030:2026-05-13T06:14:23.300Z",
+          "at": "2026-05-13T06:14:23.300Z",
+          "kind": "update",
+          "agent": "understand-anything:file-analyzer:a00c442",
+          "detail": "started understand-anything:file-analyzer:a00c442",
+          "sourceKey": "session-start:a00c4423478968030"
+        },
+        {
+          "id": "session-stop:abaa0ef711a0a3493:2026-05-13T06:14:39.997Z",
+          "at": "2026-05-13T06:14:39.997Z",
+          "kind": "completion",
+          "agent": "understand-anything:file-analyzer:abaa0ef",
+          "detail": "completed",
+          "sourceKey": "session-stop:abaa0ef711a0a3493"
+        },
+        {
+          "id": "session-stop:af8a14fc62561f0cd:2026-05-13T06:15:13.456Z",
+          "at": "2026-05-13T06:15:13.456Z",
+          "kind": "completion",
+          "agent": "understand-anything:file-analyzer:af8a14f",
+          "detail": "completed",
+          "sourceKey": "session-stop:af8a14fc62561f0cd"
+        },
+        {
+          "id": "session-stop:a00c4423478968030:2026-05-13T06:15:26.238Z",
+          "at": "2026-05-13T06:15:26.238Z",
+          "kind": "completion",
+          "agent": "understand-anything:file-analyzer:a00c442",
+          "detail": "completed",
+          "sourceKey": "session-stop:a00c4423478968030"
+        },
+        {
+          "id": "session-stop:a0a80c347c7e31f00:2026-05-13T06:15:36.960Z",
+          "at": "2026-05-13T06:15:36.960Z",
+          "kind": "completion",
+          "agent": "understand-anything:file-analyzer:a0a80c3",
+          "detail": "completed",
+          "sourceKey": "session-stop:a0a80c347c7e31f00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+# .understandignore — patterns for files/dirs to exclude from analysis
+# Syntax: same as .gitignore (globs, # comments, ! negation, trailing / for dirs)
+# Lines below are suggestions — uncomment to activate.
+# Use ! prefix to force-include something excluded by defaults.
+#
+# Built-in defaults (always excluded unless negated):
+#   node_modules/, .git/, dist/, build/, obj/, *.lock, *.min.js, etc.
+#
+# --- From .gitignore (uncomment to exclude) ---
+
+# **/.DS_Store
+# **/__pycache__
+# go/bin/
+# go/**/testdata/
+# go/coordinator/bin/
+# go/pkg/proto/
+# clients/js/package-lock.json
+# **/data__nogit
+# **/.ipynb_checkpoints
+# index_data
+# /chroma/
+# /chroma_test_data/
+# server.htpasswd
+# server.authz
+# server.authn
+# .env
+# .chroma
+# *.egg-info
+# .terraform/
+# .terraform.lock.hcl
+# terraform.tfstate
+# .hypothesis/
+# .chroma_env
+# testdata
+# !.claude/
+# !.claude/rules/
+# !.claude/rules/*.md
+
+# --- Detected directories (uncomment to exclude) ---
+
+# docs/
+# examples/
+
+# --- Test file patterns (uncomment to exclude) ---
+
+# *.test.*
+# *.spec.*
+# *.snap

@@ -1,0 +1,55 @@
+{
+  "name": "chroma-dev",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "version": "latest",
+      "moby": true
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "configureZshAsDefaultShell": false,
+      "installOhMyZsh": false
+    }
+  },
+  "remoteUser": "vscode",
+  "workspaceFolder": "/workspaces/chroma",
+  "mounts": [
+    "source=chroma-cargo-registry,target=/usr/local/cargo/registry,type=volume",
+    "source=chroma-cargo-git,target=/usr/local/cargo/git,type=volume",
+    "source=chroma-target,target=/workspaces/chroma/target,type=volume"
+  ],
+  "remoteEnv": {
+    "CARGO_TERM_COLOR": "always",
+    "RUST_BACKTRACE": "1"
+  },
+  "forwardPorts": [8000, 10350, 3000, 9090, 16686],
+  "portsAttributes": {
+    "8000": { "label": "chroma-api", "onAutoForward": "notify" },
+    "10350": { "label": "tilt-ui", "onAutoForward": "openBrowser" },
+    "3000": { "label": "grafana" },
+    "9090": { "label": "prometheus" },
+    "16686": { "label": "jaeger" }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rust-lang.rust-analyzer",
+        "tamasfe.even-better-toml",
+        "vadimcn.vscode-lldb",
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "redhat.vscode-yaml"
+      ],
+      "settings": {
+        "rust-analyzer.cargo.features": "all",
+        "rust-analyzer.check.command": "clippy",
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "postCreateCommand": "bash .devcontainer/post-create.sh"
+}

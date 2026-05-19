@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mise --version)",
+      "Bash(mise doctor *)"
+    ]
+  }
+}
